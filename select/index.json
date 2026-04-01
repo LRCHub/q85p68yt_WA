@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sweet Child",
+  "base_artist": "えんぷてい",
+  "createdAt": "2026-04-01T16:07:40.162836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/01_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/02_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_Sweet_Child_O'_Mine_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_Sweet_Child_O'_Mine_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Child O’Mine",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Miche Braden",
+      "has_synced": true,
+      "path": "select/05_Sweet_Child_O’Mine_Scott_Bradlee's_Postmodern_Jukebox_feat._Miche_Braden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Child O’Mine",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/06_Sweet_Child_O’Mine_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/07_Sweet_Child_O'_Mine_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Child (Version 1)",
+      "artist": "Simply Red",
+      "has_synced": false,
+      "path": "select/08_Sweet_Child_(Version_1)_Simply_Red.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Slash feat. Myles Kennedy & The Conspirators",
+      "has_synced": false,
+      "path": "select/09_Sweet_Child_O'_Mine_Slash_feat._Myles_Kennedy_&_The_Conspirators.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine (Live)",
+      "artist": "Slash feat. Myles Kennedy & The Conspirators",
+      "has_synced": false,
+      "path": "select/10_Sweet_Child_O'_Mine_(Live)_Slash_feat._Myles_Kennedy_&_The_Conspirators.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine (Live)",
+      "artist": "Slash Ft. Myles Kennedy & The Conspirators",
+      "has_synced": false,
+      "path": "select/11_Sweet_Child_O'_Mine_(Live)_Slash_Ft._Myles_Kennedy_&_The_Conspirators.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Child O'Mine",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/12_Sweet_Child_O'Mine_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/13_Sweet_Child_O'_Mine_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Child Of Mine",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/14_Sweet_Child_Of_Mine_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Child",
+      "artist": "Jelly Roll feat. Struggle Jennings",
+      "has_synced": false,
+      "path": "select/15_Sweet_Child_Jelly_Roll_feat._Struggle_Jennings.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Child",
+      "artist": "えんぷてい",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Child_えんぷてい.txt"
+    }
+  ]
+}
